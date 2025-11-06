@@ -31,8 +31,8 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-  ![Tianyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+  ![Tianyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianyu-075&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianyu-075&layout=compact&theme=radical)
 
 </div>
 
@@ -41,6 +41,6 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:tianyuu10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>

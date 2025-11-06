@@ -1,3 +1,5 @@
+![Banner](https://github.com/tianyu-075/tianyu-075/raw/main/anime-typing.gif)
+
 # 👋 Hi, I'm Tianyu!
 
 💻 **Full-Stack Developer | React | Node.js | MongoDB**  

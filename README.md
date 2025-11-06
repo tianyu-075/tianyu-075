@@ -1,4 +1,6 @@
-![Banner](https://github.com/tianyu-075/tianyu-075/raw/main/anime-typing.gif)
+<p align="center">
+  <img src="https://github.com/tianyu-075/tianyu-075/raw/main/anime-typing.gif" alt="Banner" />
+</p>
 
 # 👋 Hi, I'm Tianyu!
 

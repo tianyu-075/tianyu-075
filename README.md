@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Currently learning **React Native** and **Expo Notifications**
+- 🎯 Currently learning **React Native**
 - 💬 Ask me about **React**, **JavaScript**, **TypeScript** and **UI design**
 - 🌱 I’m exploring **Next.js** and **Python**
 - 🎨 I love blending clean UI with great UX
